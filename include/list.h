@@ -6,7 +6,6 @@
 #define C_ALGORITHM_LIST_H
 
 #include "boolean.h"
-#include "list.h"
 #include "iterator.h"
 #include "collection.h"
 

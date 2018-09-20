@@ -3,9 +3,9 @@
 *.cbp
 
 CMakeCache.txt
-CMakeLists.txt
 
 .idea/
 bin/
 CMakeFiles/
 cmake-build-debug/
+Makefile
